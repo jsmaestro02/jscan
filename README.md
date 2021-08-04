@@ -14,5 +14,5 @@ for scanning the target
 `$ ./jscan.py target -p 2-45`   
 `$ ./jscan.py target -p 32,21,445`     
    
-# Disclaimer: Do not use this tool on the hosts you're not allowed to and illegal attacks.
+# Disclaimer: Do not use this tool on the hosts you're not allowed to or for illegal attacks.
 
